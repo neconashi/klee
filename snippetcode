@@ -1,0 +1,11 @@
+[class^='playback-']:not(.volume-bar__slider-container > .playback-progressbar):before {
+    content: '';
+    width: 47px;
+    height: 47px;
+    bottom: calc(120% - 7px);
+    right: 10px;
+    position: absolute;
+    image-rendering: initial;
+    background-size: 47px 47px;
+    background-image: url('https://cdn.discordapp.com/attachments/1063371978343448599/1141669372876824667/892841932760432690.gif');
+}
