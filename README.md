@@ -2,7 +2,7 @@
 adds a gif of klee dancing to your playback bar
 
 how to use: 
-simply copy and paste the code into the "custom CSS" section.
+simply copy and paste the code into the "custom CSS" section.(you can use whatever name and description you want.)
 
 ![image](https://github.com/zylaunt/klee/assets/87878310/7d48c45f-43e5-4b1d-9673-7527f4714deb)
 
